@@ -4,6 +4,6 @@ public class Hello {
     }
 
     public static void foo() {
-        // TODO: Write this.
+        System.out.println("This is fun!");
     }
 }
