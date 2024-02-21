@@ -10,4 +10,8 @@ public class Hello {
     public static void bar() {
         // TODO: do something.
     }
+    
+    public static void somethingElse() {
+        // TODO
+    }
 }
